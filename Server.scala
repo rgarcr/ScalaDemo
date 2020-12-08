@@ -2,6 +2,8 @@ import java.net._
 import java.io._
 
 object Server extends App{
+    System.out.println("Test")
+    /*
     val server = new ServerSocket(8080)
 
     while(true{
@@ -10,4 +12,5 @@ object Server extends App{
         input.forEach(s -> System.out.println(s))//lambada expression?
         //test
     })
+    */
 }
